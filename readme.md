@@ -76,6 +76,10 @@ drink_items = ['coffee']
 - The notebook shows how prompting alone fails for this specific extraction task, motivating fine-tuning.
 - Checkpoints are saved locally and can be loaded with `AutoModelForCausalLM.from_pretrained`.
 
+## Demo
+
+If you want to try the demo, visit: https://huggingface.co/spaces/berkeruveyik/food-nutrition-analyzer
+
 ## Disclaimer
 
 This is an educational demo. Results depend on compute, hyperparameters, and dataset quality.
