@@ -33,13 +33,6 @@ This project demonstrates supervised fine-tuning (SFT) of a small LLM to extract
 pip install torch transformers trl datasets huggingface_hub matplotlib
 ```
 
-2. Log in to Hugging Face.
-
-Use a token via environment variable or secrets. Do **not** hardcode tokens in the notebook.
-
-```bash
-export HF_TOKEN=your_token_here
-```
 
 ## Running the Notebook
 
